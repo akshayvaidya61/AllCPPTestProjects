@@ -1,0 +1,3 @@
+/Users/avaidy15/AllCPPTestProjects/IWannaMakeATree/build/CMakeFiles/IWannaMakeATree.dir
+/Users/avaidy15/AllCPPTestProjects/IWannaMakeATree/build/CMakeFiles/edit_cache.dir
+/Users/avaidy15/AllCPPTestProjects/IWannaMakeATree/build/CMakeFiles/rebuild_cache.dir
